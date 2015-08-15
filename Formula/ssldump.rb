@@ -2,7 +2,7 @@ require 'formula'
 
 class Ssldump < Formula
   homepage 'http://www.rtfm.com/ssldump/'
-  url 'http://www.rtfm.com/ssldump/ssldump-0.9b3.tar.gz'
+  url 'http://pkgs.fedoraproject.org/repo/pkgs/ssldump/ssldump-0.9b3.tar.gz/ac8c28fe87508d6bfb06344ec496b1dd/ssldump-0.9b3.tar.gz'
   sha1 'a633a9a811a138eac5ed440d583473b644135ef5'
 
   depends_on 'openssl'
